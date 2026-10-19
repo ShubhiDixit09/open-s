@@ -1,0 +1,13 @@
+{
+  "checked_on": "2026-10-19",
+  "timezone": "Asia/Kolkata",
+  "automation_id": "check-mergetober-issue-updates",
+  "schedule": "Daily at 09:00 Asia/Kolkata",
+  "issues": [
+    {"number": 6027, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 2, "updated_at": "2026-10-19T10:33:24Z", "last_known_comment_id": 6265201081},
+    {"number": 6035, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T13:10:17Z", "last_known_comment_id": 6268005185},
+    {"number": 6036, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T13:17:42Z", "last_known_comment_id": 6268156539},
+    {"number": 6037, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T14:27:14Z", "last_known_comment_id": 6269614174},
+    {"number": 6038, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T13:10:48Z", "last_known_comment_id": 6268015996}
+  ]
+}
