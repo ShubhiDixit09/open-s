@@ -1,8 +1,10 @@
 # Remembering what changed in a migration guide
 
-> Working draft for Shubhi Dixit's review · 19 October 2026
+> **Working draft — status reviewed 20 October 2026.**
 >
-> Status: proposal only. [Cognee issue #6027](https://github.com/topoteretes/cognee/issues/6027) is awaiting maintainer acceptance and assignment. There is no connector implementation, PR or live test result yet. This AI-assisted draft is an editing aid: revise it in your own voice and add your actual experience before publication. It does not yet meet the event's requirement for a post about real-world use of a completed integration.
+> [Published proposal #6027](https://github.com/topoteretes/cognee/issues/6027) · [Assignment request](https://github.com/topoteretes/cognee/issues/6027#issuecomment-6265201081) · [Saved proposal](../proposals/01-changedetection.md)
+>
+> Maintainer acceptance and assignment are pending. No connector implementation, PR or live test result exists yet; the examples below are planned. This AI-assisted draft needs Shubhi's own review and actual usage evidence before it becomes the PR's final public blog.
 
 A migration guide can change while the link stays the same. That is a small detail with an awkward consequence: a note that was correct when you wrote it may now disagree with the page it points to.
 

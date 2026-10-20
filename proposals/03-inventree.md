@@ -4,6 +4,8 @@ Published issue: https://github.com/topoteretes/cognee/issues/6036
 
 Author: ShubhiDixit09. Saved from the verified GitHub description after its 20 October 2026 update. The description links the existing assignment request; maintainer acceptance and assignment remain pending. The technical proposal is unchanged.
 
+[Blog draft](../blogs/03-inventree-draft.md) · [Posted assignment request](https://github.com/topoteretes/cognee/issues/6036#issuecomment-6268156539) · [Contribution tracker](../CONTRIBUTION-TRACKER.md)
+
 ## Problem Statement
 
 A BOM says which parts belong in an assembly. The note beside a part may explain why it was chosen or why it was replaced in the next revision. That reasoning is useful project knowledge, but it stays separate from an agent's memory of the rest of the project.

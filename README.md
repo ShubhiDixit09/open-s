@@ -36,6 +36,14 @@ All five proposals are currently open and unassigned, with the enhancement label
 - [Integration guide checklist](research/integration-guide-checklist.md): requirements to check after assignment.
 - [Work log](WORKLOG.md): dated record of work done.
 - [Evidence index](EVIDENCE.md): screenshots of published issues and comments, plus clearly marked historical drafts.
+- [GitHub status snapshot](research/github-status-2026-10-20.json): verified issue status, request links and description checksums.
+- [Event-rule review](research/event-rules-review-2026-10-19.md): the requirements and uncertainties identified during the full event-page review.
+
+## Latest updates
+
+On 20 October, all five issue descriptions were corrected to link their existing assignment requests and clearly state that maintainer acceptance and assignment remain pending. Their technical proposals were preserved. Every saved proposal and blog draft now links to the corresponding published issue and request.
+
+Another contributor has requested assignment on [changedetection.io](https://github.com/topoteretes/cognee/issues/6027#issuecomment-6275450544) and [Readeck](https://github.com/topoteretes/cognee/issues/6035#issuecomment-6275466780). Neither comment is an assignment decision. The remaining three proposals have no competing request recorded at this checkpoint.
 
 ## After assignment
 

@@ -1,0 +1,86 @@
+{
+  "checked_at_utc": "2026-10-20T06:37:46Z",
+  "account": "ShubhiDixit09",
+  "progress": {
+    "proposals": 5,
+    "assignment_requests": 5,
+    "assigned_issues": 0,
+    "implementations_completed": 0,
+    "open_prs": 0,
+    "merged_prs": 0,
+    "blog_drafts": 5,
+    "finished_real_use_posts": 0
+  },
+  "issues": [
+    {
+      "number": 6027,
+      "title": "Hackathon [Feature]: Add changedetection.io watched-page history connector",
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 3,
+      "updated_at": "2026-10-20T06:30:18Z",
+      "url": "https://github.com/topoteretes/cognee/issues/6027",
+      "assignment_comment_url": "https://github.com/topoteretes/cognee/issues/6027#issuecomment-6265201081",
+      "body_sha256": "50c4c613a3fe79cfb8f47760aa510695850aa241cd23a407489b02ec974eb1cc"
+    },
+    {
+      "number": 6035,
+      "title": "Hackathon [Feature]: Add Readeck saved-research connector",
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 2,
+      "updated_at": "2026-10-20T06:30:36Z",
+      "url": "https://github.com/topoteretes/cognee/issues/6035",
+      "assignment_comment_url": "https://github.com/topoteretes/cognee/issues/6035#issuecomment-6268005185",
+      "body_sha256": "b40f9f34a0bdc0d9c6f5a8b75bbcd966da4fa46832956241f51f4989037a2c82"
+    },
+    {
+      "number": 6036,
+      "title": "Hackathon [Feature]: Add InvenTree engineering-knowledge connector",
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 1,
+      "updated_at": "2026-10-20T06:30:53Z",
+      "url": "https://github.com/topoteretes/cognee/issues/6036",
+      "assignment_comment_url": "https://github.com/topoteretes/cognee/issues/6036#issuecomment-6268156539",
+      "body_sha256": "e2a702f82862bc53d13f48766f143c672d59258f2ddfd5baf89b2a05ae9152f8"
+    },
+    {
+      "number": 6037,
+      "title": "Hackathon [Feature]: Add Kiwi TCMS test-evidence connector",
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 1,
+      "updated_at": "2026-10-20T06:31:15Z",
+      "url": "https://github.com/topoteretes/cognee/issues/6037",
+      "assignment_comment_url": "https://github.com/topoteretes/cognee/issues/6037#issuecomment-6269614174",
+      "body_sha256": "4604b8eccb130282b58c70d7ffa8f0ae11665e4308db5c3d090f57de5a181ec3"
+    },
+    {
+      "number": 6038,
+      "title": "Hackathon [Feature]: Add EspoCRM knowledge-base connector",
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 1,
+      "updated_at": "2026-10-20T06:29:13Z",
+      "url": "https://github.com/topoteretes/cognee/issues/6038",
+      "assignment_comment_url": "https://github.com/topoteretes/cognee/issues/6038#issuecomment-6268015996",
+      "body_sha256": "048091a8a6e5d8e5cc27dcb0fc942149575d45ab95209d0612206d43bc012abc"
+    }
+  ]
+}

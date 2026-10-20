@@ -4,6 +4,8 @@ Published issue: https://github.com/topoteretes/cognee/issues/6035
 
 Author: ShubhiDixit09. Saved from the verified GitHub description after its 20 October 2026 update. The description links the existing assignment request; maintainer acceptance and assignment remain pending. The technical proposal is unchanged.
 
+[Blog draft](../blogs/02-readeck-draft.md) · [Posted assignment request](https://github.com/topoteretes/cognee/issues/6035#issuecomment-6268005185) · [Contribution tracker](../CONTRIBUTION-TRACKER.md)
+
 ## Problem Statement
 
 A saved article and a reader's notes answer different questions. The article explains the subject; a highlight or annotation explains why the reader kept it. Readeck holds both, but I couldn't find a Readeck integration in Cognee's issues, PRs or existing connector packages.

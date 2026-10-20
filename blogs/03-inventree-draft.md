@@ -1,6 +1,10 @@
 # The reason a part changed belongs with the BOM
 
-> Working draft for Shubhi's review · 19 October 2026. This is an AI-assisted proposal-stage article. [Issue #6036](https://github.com/topoteretes/cognee/issues/6036) is published; assignment is pending and no connector has been built or tested. Add your own experience, versions and observed results before publication. [Issue draft](../proposals/03-inventree.md)
+> **Working draft — status reviewed 20 October 2026.**
+>
+> [Published proposal #6036](https://github.com/topoteretes/cognee/issues/6036) · [Assignment request](https://github.com/topoteretes/cognee/issues/6036#issuecomment-6268156539) · [Saved proposal](../proposals/03-inventree.md)
+>
+> Maintainer acceptance and assignment are pending. No connector implementation, PR or live test result exists yet; the examples below are planned. This AI-assisted draft needs Shubhi's own review and actual usage evidence before it becomes the PR's final public blog.
 
 A bill of materials can tell you which component is in an assembly. It may not tell you why the previous component was replaced.
 

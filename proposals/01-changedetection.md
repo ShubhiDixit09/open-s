@@ -4,6 +4,8 @@ Published issue: https://github.com/topoteretes/cognee/issues/6027
 
 Author: ShubhiDixit09. Saved from the verified GitHub description after its 20 October 2026 update. The description links the existing assignment request; maintainer acceptance and assignment remain pending. The technical proposal is unchanged.
 
+[Blog draft](../blogs/01-changedetection-6027-draft.md) · [Posted assignment request](https://github.com/topoteretes/cognee/issues/6027#issuecomment-6265201081) · [Contribution tracker](../CONTRIBUTION-TRACKER.md)
+
 ## Problem Statement
 
 Teams use changedetection.io to watch dependency documentation, migration guides and deprecation notices. Its retained text snapshots contain useful project knowledge: what the page said, when it was observed, and what changed. A Cognee connector could make that evidence searchable alongside a team's own documentation.

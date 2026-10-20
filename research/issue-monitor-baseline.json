@@ -12,7 +12,7 @@
         "enhancement"
       ],
       "comments": 3,
-      "updated_at": "2026-10-19T19:26:20Z",
+      "updated_at": "2026-10-20T06:30:18Z",
       "last_known_comment_id": 6275450544
     },
     {
@@ -23,7 +23,7 @@
         "enhancement"
       ],
       "comments": 2,
-      "updated_at": "2026-10-19T19:27:06Z",
+      "updated_at": "2026-10-20T06:30:36Z",
       "last_known_comment_id": 6275466780
     },
     {
@@ -34,7 +34,7 @@
         "enhancement"
       ],
       "comments": 1,
-      "updated_at": "2026-10-19T13:17:42Z",
+      "updated_at": "2026-10-20T06:30:53Z",
       "last_known_comment_id": 6268156539
     },
     {
@@ -45,7 +45,7 @@
         "enhancement"
       ],
       "comments": 1,
-      "updated_at": "2026-10-19T14:27:14Z",
+      "updated_at": "2026-10-20T06:31:15Z",
       "last_known_comment_id": 6269614174
     },
     {
@@ -56,10 +56,10 @@
         "enhancement"
       ],
       "comments": 1,
-      "updated_at": "2026-10-19T13:10:48Z",
+      "updated_at": "2026-10-20T06:29:13Z",
       "last_known_comment_id": 6268015996
     }
   ],
-  "checked_at_utc": "2026-10-20T06:02:27.687Z",
-  "last_observation": "Another contributor, siddarth1709, requested assignment on #6027 and #6035. No maintainer replies or assignments; all five remain open, unassigned and enhancement-labelled. These two new requests are reported in the 20 October heartbeat."
+  "checked_at_utc": "2026-10-20T06:37:46Z",
+  "last_observation": "All five descriptions now link the existing assignment requests and state that acceptance and assignment are pending. No new comments or assignments since the earlier 20 October check; the competitor requests on #6027 and #6035 are already known."
 }

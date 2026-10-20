@@ -1,6 +1,10 @@
 # The article's claim and my note are different evidence
 
-> Working draft for Shubhi's review · 19 October 2026. This is an AI-assisted proposal-stage article. [Issue #6035](https://github.com/topoteretes/cognee/issues/6035) is published; assignment is pending and no connector has been built or tested. Revise this in your own voice and replace planned checks with actual experience before using it as a PR's public blog. [Issue draft](../proposals/02-readeck.md)
+> **Working draft — status reviewed 20 October 2026.**
+>
+> [Published proposal #6035](https://github.com/topoteretes/cognee/issues/6035) · [Assignment request](https://github.com/topoteretes/cognee/issues/6035#issuecomment-6268005185) · [Saved proposal](../proposals/02-readeck.md)
+>
+> Maintainer acceptance and assignment are pending. No connector implementation, PR or live test result exists yet; the examples below are planned. This AI-assisted draft needs Shubhi's own review and actual usage evidence before it becomes the PR's final public blog.
 
 Saving an article is easy. Remembering why it was useful is harder.
 

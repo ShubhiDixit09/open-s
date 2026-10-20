@@ -19,6 +19,8 @@ At this checkpoint: five proposals, five assignment requests, zero assignments, 
 - Checked all five issues: still open and unassigned. Another contributor requested assignment on changedetection.io and Readeck; those comments are not assignment decisions.
 - Updated the Additional Context section of all five descriptions to link their existing assignment comments and state that acceptance and assignment remain pending. Removed the outdated scope-only wording. The technical scope, use cases, testing plans, references and checklists were preserved.
 - Verified all five saved descriptions against the GitHub API. No new comments, maintainer tags, assignment requests, integration code or PRs were created by this update.
+- Reviewed all five blog drafts, refreshed their status headers, and linked each to its published issue, assignment request and saved proposal. Added matching navigation to the proposal copies.
+- Updated the blog index, evidence index and repository overview; saved the event-rule review and a dated GitHub status snapshot. The five articles remain working drafts with real-use evidence still to add.
 
 ## Recording future work
 

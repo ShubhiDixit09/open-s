@@ -1,6 +1,10 @@
 # A red test result is only the start of the story
 
-> Working draft for Shubhi's review · 19 October 2026. This is an AI-assisted proposal-stage article. [Issue #6037](https://github.com/topoteretes/cognee/issues/6037) is published; assignment is pending and no connector has been built or tested. Replace planned behavior with your own observed results before publication. [Issue draft](../proposals/04-kiwi-tcms.md)
+> **Working draft — status reviewed 20 October 2026.**
+>
+> [Published proposal #6037](https://github.com/topoteretes/cognee/issues/6037) · [Assignment request](https://github.com/topoteretes/cognee/issues/6037#issuecomment-6269614174) · [Saved proposal](../proposals/04-kiwi-tcms.md)
+>
+> Maintainer acceptance and assignment are pending. No connector implementation, PR or live test result exists yet; the examples below are planned. This AI-assisted draft needs Shubhi's own review and actual usage evidence before it becomes the PR's final public blog.
 
 A failed test tells you where to look. The case description, the environment and the tester's comment may explain what actually happened.
 

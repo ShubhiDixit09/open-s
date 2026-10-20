@@ -1,6 +1,6 @@
 # Five published integration proposals
 
-Published on 19 October 2026 from **ShubhiDixit09**. GitHub API verification confirmed that all five are open, unassigned and carry the enhancement label.
+Published on 19 October 2026 from **ShubhiDixit09**. Status reviewed on **20 October 2026**: GitHub API verification confirmed that all five are open, unassigned and carry the enhancement label.
 
 | Integration | GitHub issue | Saved issue text | Separate blog draft |
 | --- | --- | --- | --- |

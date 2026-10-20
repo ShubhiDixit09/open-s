@@ -1,6 +1,10 @@
 # An article can become outdated without a text edit
 
-> Working draft for Shubhi's review · 19 October 2026. This is an AI-assisted proposal-stage article. [Issue #6038](https://github.com/topoteretes/cognee/issues/6038) is published; assignment is pending and no connector has been built or tested. Add your real usage and results, and revise the wording yourself before publication. [Issue draft](../proposals/05-espocrm.md)
+> **Working draft — status reviewed 20 October 2026.**
+>
+> [Published proposal #6038](https://github.com/topoteretes/cognee/issues/6038) · [Assignment request](https://github.com/topoteretes/cognee/issues/6038#issuecomment-6268015996) · [Saved proposal](../proposals/05-espocrm.md)
+>
+> Maintainer acceptance and assignment are pending. No connector implementation, PR or live test result exists yet; the examples below are planned. This AI-assisted draft needs Shubhi's own review and actual usage evidence before it becomes the PR's final public blog.
 
 A troubleshooting article can contain exactly the same text today as yesterday and still stop being an approved answer.
 

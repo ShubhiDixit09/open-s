@@ -4,6 +4,8 @@ Published issue: https://github.com/topoteretes/cognee/issues/6037
 
 Author: ShubhiDixit09. Saved from the verified GitHub description after its 20 October 2026 update. The description links the existing assignment request; maintainer acceptance and assignment remain pending. The technical proposal is unchanged.
 
+[Blog draft](../blogs/04-kiwi-tcms-draft.md) · [Posted assignment request](https://github.com/topoteretes/cognee/issues/6037#issuecomment-6269614174) · [Contribution tracker](../CONTRIBUTION-TRACKER.md)
+
 ## Problem Statement
 
 Knowing that a test failed is less useful than knowing what was tested, on which environment, and what the tester recorded about the failure. Kiwi TCMS keeps that context across plans, cases, runs and execution comments. An agent should be able to retrieve the recorded evidence behind a release decision.
