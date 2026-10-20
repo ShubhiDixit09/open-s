@@ -1,6 +1,6 @@
 # Mergetober contribution tracker
 
-Last checked: 19 October 2026 (Asia/Kolkata).
+Last checked: 20 October 2026 (Asia/Kolkata).
 
 GitHub account: [ShubhiDixit09](https://github.com/ShubhiDixit09). The GitHub API verified this author for all five issues below.
 
@@ -15,6 +15,8 @@ GitHub account: [ShubhiDixit09](https://github.com/ShubhiDixit09). The GitHub AP
 | EspoCRM | [#6038](https://github.com/topoteretes/cognee/issues/6038) | [Assignment requested](https://github.com/topoteretes/cognee/issues/6038#issuecomment-6268015996); awaiting acceptance and assignment | [Draft](blogs/05-espocrm-draft.md) |
 
 All five issues are currently open, unassigned and labelled enhancement. Maintainer acceptance and event labelling remain pending. No PR exists yet.
+
+On 20 October, each issue description was corrected to link its existing assignment request and reflect the pending status. The detailed technical proposals were preserved; no additional requests or tags were posted. Another contributor has requested assignment on #6027 and #6035, but neither issue has been assigned.
 
 An issue is a proposal and discussion. A pull request is the later code submission. The event's “Your pull requests” panel is expected to remain empty until a PR exists.
 

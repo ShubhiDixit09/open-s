@@ -1,13 +1,65 @@
 {
-  "checked_on": "2026-10-19",
+  "checked_on": "2026-10-20",
   "timezone": "Asia/Kolkata",
   "automation_id": "check-mergetober-issue-updates",
   "schedule": "Daily at 09:00 Asia/Kolkata",
   "issues": [
-    {"number": 6027, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 2, "updated_at": "2026-10-19T10:33:24Z", "last_known_comment_id": 6265201081},
-    {"number": 6035, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T13:10:17Z", "last_known_comment_id": 6268005185},
-    {"number": 6036, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T13:17:42Z", "last_known_comment_id": 6268156539},
-    {"number": 6037, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T14:27:14Z", "last_known_comment_id": 6269614174},
-    {"number": 6038, "state": "open", "assignees": [], "labels": ["enhancement"], "comments": 1, "updated_at": "2026-10-19T13:10:48Z", "last_known_comment_id": 6268015996}
-  ]
+    {
+      "number": 6027,
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 3,
+      "updated_at": "2026-10-19T19:26:20Z",
+      "last_known_comment_id": 6275450544
+    },
+    {
+      "number": 6035,
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 2,
+      "updated_at": "2026-10-19T19:27:06Z",
+      "last_known_comment_id": 6275466780
+    },
+    {
+      "number": 6036,
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 1,
+      "updated_at": "2026-10-19T13:17:42Z",
+      "last_known_comment_id": 6268156539
+    },
+    {
+      "number": 6037,
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 1,
+      "updated_at": "2026-10-19T14:27:14Z",
+      "last_known_comment_id": 6269614174
+    },
+    {
+      "number": 6038,
+      "state": "open",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": 1,
+      "updated_at": "2026-10-19T13:10:48Z",
+      "last_known_comment_id": 6268015996
+    }
+  ],
+  "checked_at_utc": "2026-10-20T06:02:27.687Z",
+  "last_observation": "Another contributor, siddarth1709, requested assignment on #6027 and #6035. No maintainer replies or assignments; all five remain open, unassigned and enhancement-labelled. These two new requests are reported in the 20 October heartbeat."
 }

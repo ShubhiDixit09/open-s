@@ -14,6 +14,12 @@
 
 At this checkpoint: five proposals, five assignment requests, zero assignments, zero connector implementations and zero PRs. The blog drafts describe planned use and do not claim live results. No integration code or prototypes were written before assignment.
 
+## 20 October 2026
+
+- Checked all five issues: still open and unassigned. Another contributor requested assignment on changedetection.io and Readeck; those comments are not assignment decisions.
+- Updated the Additional Context section of all five descriptions to link their existing assignment comments and state that acceptance and assignment remain pending. Removed the outdated scope-only wording. The technical scope, use cases, testing plans, references and checklists were preserved.
+- Verified all five saved descriptions against the GitHub API. No new comments, maintainer tags, assignment requests, integration code or PRs were created by this update.
+
 ## Recording future work
 
 Add dated entries for actual assignments, approved scope, implementation branches, commands run, observed test results, PRs, review feedback, final blog URLs and event submissions. Keep planned work separate from completed work. Counts in the README and contribution tracker should change only when the linked evidence changes.

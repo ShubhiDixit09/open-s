@@ -10,7 +10,7 @@ Published on 19 October 2026 from **ShubhiDixit09**. GitHub API verification con
 | Kiwi TCMS | [#6037](https://github.com/topoteretes/cognee/issues/6037) | [04-kiwi-tcms.md](04-kiwi-tcms.md) | [04-kiwi-tcms-draft.md](../blogs/04-kiwi-tcms-draft.md) |
 | EspoCRM | [#6038](https://github.com/topoteretes/cognee/issues/6038) | [05-espocrm.md](05-espocrm.md) | [05-espocrm-draft.md](../blogs/05-espocrm-draft.md) |
 
-All five now have an approach-and-assignment comment tagging @NMZivkovic. The later four issue bodies were originally scope-only proposals; the comments record the later request for assignment. A request does not constitute assignment or maintainer approval.
+All five have an approach-and-assignment comment tagging @NMZivkovic. On 20 October, their descriptions were corrected to link those existing requests and state that acceptance and assignment remain pending. The saved texts now match the updated descriptions. A request does not constitute assignment or maintainer approval.
 
 | Integration | Posted comment | Saved copy |
 | --- | --- | --- |

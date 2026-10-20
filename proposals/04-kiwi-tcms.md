@@ -1,8 +1,8 @@
 # Hackathon [Feature]: Add Kiwi TCMS test-evidence connector
 
-Saved issue text · 19 October 2026 · intended author: ShubhiDixit09.
+Published issue: https://github.com/topoteretes/cognee/issues/6037
 
-**Publication status:** published as [#6037](https://github.com/topoteretes/cognee/issues/6037) by ShubhiDixit09. Verified open, unassigned and labelled enhancement on 19 October 2026. A later [assignment comment](https://github.com/topoteretes/cognee/issues/6037#issuecomment-6269614174) was posted at Shubhi's request. The saved original body below is historical.
+Author: ShubhiDixit09. Saved from the verified GitHub description after its 20 October 2026 update. The description links the existing assignment request; maintainer acceptance and assignment remain pending. The technical proposal is unchanged.
 
 ## Problem Statement
 
@@ -34,7 +34,9 @@ Test unchanged imports, case-text edits, execution-comment edits, removed execut
 
 ## Additional Context
 
-Proposed for Mergetober scope feedback. I have an assignment request pending on #6027 and am not asking for a parallel assignment here. This is researched scope, with no connector implementation or live test completed. Any coding would wait for assignment.
+Proposed for Mergetober. I have requested assignment in [this comment](https://github.com/topoteretes/cognee/issues/6037#issuecomment-6269614174), which also summarizes my approach and validation plan. The detailed scope, use case and testing plan are above.
+
+Maintainer acceptance and assignment are still pending. No connector code or live integration test has been completed; I will wait for assignment before coding.
 
 References:
 
@@ -45,8 +47,6 @@ References:
 
 ## Pre-submission Checklist
 
-- [x] Prior research found no matching issue, PR or named connector; repeat the availability check immediately before posting.
-- [x] Provided a clear problem statement and proposed solution.
-- [x] Described a specific use case and planned validation.
-
-Editorial status notes above are local bookkeeping, not part of the intended GitHub issue body.
+- [x] I have searched existing issues to ensure this feature hasn't been requested already
+- [x] I have provided a clear problem statement and proposed solution
+- [x] I have described my specific use case

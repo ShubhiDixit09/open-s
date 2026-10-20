@@ -1,8 +1,8 @@
 # Hackathon [Feature]: Add Readeck saved-research connector
 
-Saved issue text · 19 October 2026 · intended author: ShubhiDixit09.
+Published issue: https://github.com/topoteretes/cognee/issues/6035
 
-**Publication status:** published as [#6035](https://github.com/topoteretes/cognee/issues/6035) by ShubhiDixit09. Verified open, unassigned and labelled enhancement on 19 October 2026. Originally a scope proposal; a later [assignment comment](https://github.com/topoteretes/cognee/issues/6035#issuecomment-6268005185) was posted at Shubhi's request. The saved original issue body below is historical.
+Author: ShubhiDixit09. Saved from the verified GitHub description after its 20 October 2026 update. The description links the existing assignment request; maintainer acceptance and assignment remain pending. The technical proposal is unchanged.
 
 ## Problem Statement
 
@@ -34,18 +34,17 @@ Validation would use the local Compose deployment. Tests would cover unchanged i
 
 ## Additional Context
 
-Proposed for Mergetober. I am currently awaiting assignment on #6027; this is a separate scope proposal, not a request for another assignment. No connector code or live test has been completed. Any implementation would wait for assignment.
+Proposed for Mergetober. I have requested assignment in [this comment](https://github.com/topoteretes/cognee/issues/6035#issuecomment-6268005185), which also summarizes my approach and validation plan. The detailed scope, use case and testing plan are above.
+
+Maintainer acceptance and assignment are still pending. No connector code or live integration test has been completed; I will wait for assignment before coding.
 
 References:
-
 - [Synchronization API](https://readeck.org/en/blog/202508-readeck-20/)
 - [Authentication changes](https://readeck.org/en/blog/202602-readeck-22/)
 - [Local setup](https://readeck.org/en/docs/compose)
 
 ## Pre-submission Checklist
 
-- [x] Searched existing issues and PRs for this integration; repeat immediately before posting if delayed.
-- [x] Provided a clear problem statement and proposed solution.
-- [x] Described a specific use case and planned validation.
-
-Editorial status notes above are local bookkeeping, not part of the intended GitHub issue body.
+- [x] I have searched existing issues to ensure this feature hasn't been requested already
+- [x] I have provided a clear problem statement and proposed solution
+- [x] I have described my specific use case
